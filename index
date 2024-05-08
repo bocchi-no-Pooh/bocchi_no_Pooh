@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/style.css">
+        <title>ぼっちのぷーの取扱説明書</title>
+    </head>
+    <body>
+        <h1>ぼっちのぷーの取扱説明書</h1>
+        <p>
+           <img src="photo.png" alt="photo" width="300" height="300">
+        </p>
+        <p>
+            大人可愛い作品を作ってます。<br>
+            お気軽にフォローしてください！
+        </p>
+        <ul>
+            <li><a href="https://www.twitch.tv/bocchinopooh3">Twitch</a></li>
+            <li><a href="https://www.youtube.com/channel/UCDmsOA6qmaix7wxIrUlg4kw">Youtube<br>（ぷーさんの雑貨屋：ハンドメイドちゃんねる）</a></li>
+            <li><a href="https://www.youtube.com/channel/UC8dBGKexoM-Y8WH1XhXUcaQ">Youtube<br>（ぼっちのぷーちゃん：ゲームちゃんねる）</a></li>
+            <li><a href="https://twitter.com/bocchi_no_Pooh">X<br>（配信用）</a></li>
+            <li><a href="https://twitter.com/bocchi_no_Pooh8">X<br>（プライベート用）</a></li>
+            <li><a href="https://www.instagram.com/bocchi_no_pooh/">Instagram</a></li>
+            <li><a href="https://minne.com/@bocchinopooh">minnne</a></li>
+            <li><a href="https://jp.mercari.com/user/profile/217422400">メルカリ</a></li>
+            
+        </ul>
+    </body>
+</html>
